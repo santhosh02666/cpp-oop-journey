@@ -5,7 +5,7 @@ This repository documents my progress as I learn and practice OOP concepts throu
 
 ## 📚 Topics Covered
 
-- [ ] Classes & Objects
+- [Done ] Classes & Objects
 - [ ] Constructors
 - [ ] Destructors
 - [ ] Encapsulation
