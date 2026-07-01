@@ -8,7 +8,7 @@ This repository documents my progress as I learn and practice OOP concepts throu
 - [Done] Classes & Objects
 - [Done] Constructors
 - [Done] Destructors
-- [ ] Encapsulation
+- [Done] Encapsulation
 - [ ] Inheritance
 - [ ] Polymorphism
 - [ ] Abstraction
