@@ -9,7 +9,7 @@ This repository documents my progress as I learn and practice OOP concepts throu
 - [Done] Constructors
 - [Done] Destructors
 - [Done] Encapsulation
-- [ ] Inheritance
+- [Done] Inheritance
 - [ ] Polymorphism
 - [ ] Abstraction
 - [ ] Friend Functions
