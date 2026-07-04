@@ -10,12 +10,12 @@ This repository documents my progress as I learn and practice OOP concepts throu
 - [Done] Destructors
 - [Done] Encapsulation
 - [Done] Inheritance
-- [ ] Polymorphism
+- [Done] Polymorphism
 - [ ] Abstraction
 - [ ] Friend Functions
 - [ ] Static Members
-- [ ] Operator Overloading
-- [ ] Virtual Functions
+- [Done] Operator Overloading
+- [Done] Virtual Functions
 - [ ] File Handling (OOP Applications)
 
 ## 🎯 Goal
