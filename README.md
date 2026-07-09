@@ -12,6 +12,7 @@ This repository documents my progress as I learn and practice OOP concepts throu
 - [Done] Inheritance
 - [Done] Polymorphism
 - [Done] Abstraction
+- [Done] Local and Global variables
 - [ ] Friend Functions
 - [ ] Static Members
 - [Done] Operator Overloading
