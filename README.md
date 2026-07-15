@@ -14,7 +14,7 @@ This repository documents my progress as I learn and practice OOP concepts throu
 - [Done] Abstraction
 - [Done] Local and Global variables
 - [Done] Friend Functions
-- [ ] Static Members
+- [Done] Static Members
 - [Done] Operator Overloading
 - [Done] Virtual Functions
 - [ ] File Handling (OOP Applications)
